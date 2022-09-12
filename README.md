@@ -1,3 +1,2 @@
 # ukcooltech
-# this jus for demo website 
-# thank for download 
+# this is just demo website 
